@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/com/controller/LoginServlet.java=UTF-8
+encoding//src/com/controller/UploadServlet.java=GBK
+encoding//src/com/model/HdfsDAO.java=UTF-8
+encoding//src/com/model/UserBeanCl.java=UTF-8
